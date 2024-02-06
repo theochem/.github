@@ -1,14 +1,13 @@
-<img src="https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-Vertical.svg" title="Google Summer of Code 2023" alt="Google Summer of Code 2023" align="right" width="25%"/>
+<img src="https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-Vertical.svg" title="Google Summer of Code 2023" alt="Google Summer of Code 2023" align="right" width="15%"/>
 
 Welcome to the QC-Devs organization! We are looking forward to your contributions.
 
-This document provides guidance for individuals interested in participating in the Google Summer of Code (GSoC) program with QC-Devs. We recommend that you keep your proposal concise and to the point. We anticipate that the proposal will be less than 5 pages long. The proposal should be a reflection of your understanding of the project and your ability to complete it.
+This document provides guidance for individuals interested in participating in the Google Summer of Code (GSoC) program with QC-Devs.
 
-----
 
 # GSoC Contributor Guidance
 
-To write a successful proposal for QC-Devs organization, we recommend that you follow the template below and make sure the proposal content answers the questions in each section.
+To write a successful proposal for QC-Devs organization, we recommend that you follow the template below and make sure the proposal content answers the questions in each section. The proposal should be a reflection of your understanding of the project and your ability to complete it. We recommend that you keep your proposal concise and to the point. We anticipate that the proposal will be less than 5 pages long.
 
 ### 1. Personal information
 - Full Name
