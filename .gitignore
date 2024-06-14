@@ -1,0 +1,23 @@
+# IDE configuration files
+.idea/
+.vscode/
+.history/
+
+# Irrelevant files
+*.bak
+*.diff
+*.patch
+tmp
+.Trash-*
+.directory
+.fuse_hidden*
+.nfs*
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
