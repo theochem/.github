@@ -18,7 +18,7 @@ Here is a brief overview of QC-Devs contributing workflow:
     2. Create a new branch
     3. Make your changes
     4. Push your changes to your fork
-    5. [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to the `main` branch of the original repository. The PR should have a clear title and description (of what it does and how), and should reference the issue it solves (if it solves an issue). It's much easier to review several small pull requests than one gargantuan one, so it is preferable to make small pull requests as you go along. 
+    5. [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to the `main` branch of the original repository. The PR should have a clear title and description (of what it does and how), and should reference the issue it solves (if it solves an issue). It's much easier to review several small pull requests than one gargantuan one, so it is preferable to make small pull requests as you go along.
 
 #### Commit Messages
 We follow the [Pansini guide](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53#rules-for-a-great-git-commit-message-style) style for commit messages. This makes it easier to generate changelogs and to understand the history of the project.
@@ -47,4 +47,3 @@ Code needs to be consistent with the rest of the codebase. This makes it easier 
 - Even more, variable names should be consistent with all QC-Devs packages. We are in the process of making a glossary but at the moment, please take a look at the existing code on [GitHub](https://github.com/theochem) and try to match them.
 
 We value your contributions and appreciate your efforts to improve QC-Devs packages. By following these guidelines, you can ensure smoother collaboration and enhance the overall quality of the project.
-
