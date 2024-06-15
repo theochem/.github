@@ -1,4 +1,4 @@
-<img src="https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-Vertical.svg" title="Google Summer of Code 2023" alt="Google Summer of Code 2023" align="right" width="15%"/>
+<img src="https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-Vertical.svg" title="Google Summer of Code 2024" alt="Google Summer of Code 2024" align="right" width="15%"/>
 
 Welcome to the QC-Devs organization! We are looking forward to your contributions.
 

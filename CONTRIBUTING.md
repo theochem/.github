@@ -1,6 +1,6 @@
 # QC-Devs Contributing Guidelines
 
-Welcome to the **QC-Devs** community! We are excited to have you here. In order to make your contribution process as smooth, efficient, and inclusive as possible, we have created these guidelines. All contributors are expected to abide by the [QC-Devs Code of Conduct](CodeOfConduct.md).
+Welcome to the **QC-Devs** community! We are excited to have you here. In order to make your contribution process as smooth, efficient, and inclusive as possible, we have created these guidelines. All contributors are expected to abide by the [QC-Devs Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## GitHub Workflow
 All contributions to QC-Devs packages are made through GitHub. If you are not familiar with git or GitHub, we recommend you to take a look at the [GitHub Guides](https://guides.github.com/) or this [git book](https://git-scm.com/book/en/v2).
