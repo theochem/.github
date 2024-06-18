@@ -11,13 +11,16 @@ All contributors are expected to abide by the [QC-Devs Code of Conduct](CODE_OF_
 
 Contributions to QC-Devs packages are made through GitHub.
 If you are not familiar with Git or GitHub,
-we recommend that you take a look at the [GitHub guides] or this [Git book].
-The gamified [Learn Git Branching] is a fun way
-to learn the basics of the `git` command in an interactive and visual way.
+we encourage you to explore some of the online documentation and tutorials:
 
-[GitHub Guides]: https://guides.github.com/
-[Git Book]: https://git-scm.com/book/en/v2
-[Learn Git Branching]: https://learngitbranching.js.org/
+- The [GitHub guides](https://guides.github.com/) describe Git and GitHub in detail.
+  It provides reading material and documentation to help you become familiar with all the relevant concepts.
+- The [Git book](https://git-scm.com/book/en/v2) focuses on the Git program itself
+  and discusses various online providers, including GitHub,
+- The gamified [Learn Git Branching](https://learngitbranching.js.org/) is a fun way,
+  to learn the basics of the `git` command in an interactive and visual way.
+- The [GitHub Skills](https://skills.github.com/) courses
+  provide online, interactive, GitHub tutorials.
 
 
 ### Configure Git and GitHub
@@ -41,9 +44,11 @@ and let the maintainers know that you are working on it by assigning yourself.
 Also use the issue to plan your changes.
 Try to solve only one problem at a time,
 rather than fixing multiple problems and adding several features at once.
+For example, see the [IOData issue on refactoring the continuous integration], which has been addressed in many pull requests.
 
 [issue]: https://docs.github.com/en/issues
 [assign yourself]: https://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users
+[IOData issue on refactoring the continuous integration]: https://github.com/theochem/iodata/issues/313
 
 
 ### Development Setup
