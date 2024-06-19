@@ -21,7 +21,7 @@ As with all of our work, contributions to this document are welcome.
    and adding a few files that should always be present.
 
 2. Python package
-    - Setup tools (TODO)
+    - Setuptools (TODO)
     - Recommended Packages to facilitate developemnt (TODO)
 
 3. Documentation
