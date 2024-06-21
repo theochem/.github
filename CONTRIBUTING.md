@@ -1,6 +1,6 @@
 # QC-Devs Contributing Guidelines
 
-Welcome to the **QC-Devs** community!
+Welcome to the [QC-Devs](https://qcdevs.org/) community!
 We are excited to have you here.
 In order to make your contribution process as smooth, efficient, and inclusive as possible,
 we have created these guidelines.

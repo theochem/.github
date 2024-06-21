@@ -5,7 +5,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 # Community health files for QC-Devs
 
 This repository contains the default community health files
-for all repositories of the GitHub Theochem organization.
+for all [QC-Devs](https://qcdevs.org/) repositories of the GitHub Theochem organization.
 
 GitGub documentation for this repository:
 [Creating a default community health file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file).
