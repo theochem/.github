@@ -2,7 +2,7 @@
 
 Welcome to the QC-Devs organization! We are looking forward to your contributions.
 
-This document provides guidance for individuals interested in participating in the Google Summer of Code (GSoC) program with QC-Devs.
+This document provides guidance for individuals interested in participating in the Google Summer of Code (GSoC) program with QC-Devs. You can also look at the [example proposal](documents/GSoCexample.pdf).
 
 
 # GSoC Contributor Guidance
