@@ -109,7 +109,7 @@ use [semantic line breaks](https://sembr.org/) to wrap long sentences.
 
 We strive to write compact and elegant Python code.
 The linters configured in pre-commit can only detect or fix local style issues.
-Anything beyon the scope of the linters, will be addressed when reviewing a pull request.
+Anything beyond the scope of the linters, will be addressed when reviewing a pull request.
 
 
 #### 2. Code should be well-documented.
@@ -148,6 +148,15 @@ This makes it easier to review and maintain. This includes:
 - Even more, variable names should be consistent across all QC-Devs packages.
   We are in the process of creating a glossary, but for now,
   please take a look at the existing code on [GitHub](https://github.com/theochem) and try to match them.
+
+#### 5. Make Small Pull Requests
+Contributors to QC-Devs are all volunteers; we have no full-time staff. As such, it is *extremely important* to make small pull requests, so that our team can review your code in the short chunks of time they have available. (We've observed that large pull requests tend to languish; short pull requests can be reviewed/iterated/merged much faster.) Please break large new features into bite-sized pieces, rather than making a single monolithic contribution. 
+
+Some general guidelines:
+
+- For pull requests updating/adding to the code, no more than 3 commits with 50 lines of code. If you need more than this, please state it clearly.
+  
+- Address all the GitHub actions feedback. If you do not do this within 3 months, the pull request will be automatically closed.
 
 We value your contributions and appreciate your efforts to improve QC-Devs packages.
 By following these guidelines, you can ensure smoother collaboration and enhance the overall quality of the project.
