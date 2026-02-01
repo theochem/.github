@@ -16,9 +16,11 @@ GitGub documentation for this repository:
 - The [Code of Conduct](CODE_OF_CONDUCT.md)
   establishes our expectations of everyone who participates in QC-Devs,
   in order to make it a stimulating and enjoyable environment.
-- The [Contributing Guide](CONTRIBUTING.md)
+- The [Contributor Guide](CONTRIBUTING.md)
   documents how to contribute to one of the repositories.
   Each repository also provides additional details, such as file names and tools used.
+- The [Maintainer Guide](MAINTAINING.md)
+  helps you set up and maintain a repository according to best practices.
 - The [GSoC Contributor Guide](GSoC.md)
   provides guidance for individuals interested in participating
   in the Google Summer of Code (GSoC) program with QC-Devs.

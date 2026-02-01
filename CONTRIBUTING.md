@@ -1,4 +1,4 @@
-# QC-Devs Contributing Guidelines
+# QC-Devs Contributor Guide
 
 Welcome to the [QC-Devs](https://qcdevs.org/) community!
 We are excited to have you here.
