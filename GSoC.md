@@ -36,3 +36,6 @@ To write a successful proposal for QC-Devs organization, we recommend that you f
 - How familiar are you with collaborative Git workflows? Outline the workflow you plan to use while completing this project.
 - By which means do you plan on communicating with the project mentors, and how often?
 - What is your work style? Have you worked on collaborative projects before?
+
+
+> **Note on use of AI:** Consistent with our [contributing guidelines](CONTRIBUTING.md), QC-Devs embraces the use of AI and understands that contributors may use AI to assist them in understanding projects/issues and strategic exploration/prototyping. **However, AI-generated proposals are unacceptable.** AI *can* be used as an assistant, but the actual proposal must be formulated by and written by the applicant.  
