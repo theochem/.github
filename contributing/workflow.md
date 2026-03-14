@@ -28,7 +28,7 @@ Here, we will only go over the technicalities of creating a pull request.
 3. Make changes to the source code.
    To make these easier to process and to maintain the code quality,
    general recommendations can be found in the
-   [Code Quality section of the main Contributing Guide](../CONTRIBUTING.md#code-quality).
+   [Code Quality section of the main Contributor Guide](../CONTRIBUTING.md#code-quality).
 
 
 4. Verify that all the tests pass and that the documentation builds without warnings or errors.
