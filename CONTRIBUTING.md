@@ -27,7 +27,7 @@ Use the new issue to plan your changes; it can be helpful to break large issues 
 
 Setting up a local development environment can be summarized as follows (only needed once per repo):
 
-- [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the repository on GitHub.  
+- [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the repository on GitHub. If you have permissions to create a branch in the repository, it is better to create a branch than a fork. (However, this permission is only available to core/frequent contributors.) 
 - Clone the original repository on your local machine.  
 - Add your fork as a second remote to the local clone of the repository.  
 - Set up the software environment in your local clone.
