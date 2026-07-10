@@ -1,4 +1,4 @@
-# Git and GitHub configuration
+# Git and GitHub Configuration
 
 - If you don't already have an SSH key pair, create one using the following terminal command:
 
